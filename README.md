@@ -4,5 +4,7 @@
 
  ###### Resources
  - Spotipy Documentation: 
- https://spotipy.readthedocs.io/en/2.13.0/#spotipy.oauth2.SpotifyOAuth
+https://spotipy.readthedocs.io/en/master
+- Beautiful Soup Documentation:
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#
 
